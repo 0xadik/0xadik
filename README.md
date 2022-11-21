@@ -4,7 +4,6 @@
 
 
 ![0xadik's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xadik&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xadik&theme=merko)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xadik&layout=compact&theme=blue-green)
 
 <h3 align="left">Languages and Tools:</h3>
