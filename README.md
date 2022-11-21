@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sadikul Islam</h1>
-<h3 align="center">An independent Cyber Security Researcher</h3>
+<h3 align="center">An independent Information Security Researcher</h3>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xadik&theme=merko)](https://git.io/streak-stats)
